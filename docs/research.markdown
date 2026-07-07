@@ -1,5 +1,5 @@
 ---
-layout: page
+# layout: page
 title: Research
 permalink: /research/
 ---
@@ -17,9 +17,5 @@ Computational Cognitive Neuroscience (CCN) Conference - [Date] (Poster and Exten
 
 ## Awards
 Boyce Batey Senior Thesis Award - 2026
-
-## Resume/CV
-
-You can find my CV/Resume here: [link]
 
 [jekyll-organization]: https://github.com/jekyll
