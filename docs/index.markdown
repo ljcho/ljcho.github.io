@@ -9,7 +9,7 @@ layout: default
 
 Hello! I'm currently an undergraduate senior majoring in Neuroscience at Princeton. I am working in the Niv Lab under graduate student Branson Byers.
 
-I am interested in understanding how people create, maintain, and abandon goals, and how they create plans to achive said goals. To quantify this behavior, I create reinforcement learning (RL) models of human cognition.
+I am interested in using reinforcement learning (RL) models of cognition to investigate how people create, select, maintain, and pursue goals, and how planning influences goal-directed behavior. In particular, I am interested in investigating the relationship between goal selection, planning, and cognitive effort.
 
 My current project studies how planning contributes to human goal persistance (i.e. whether having to plan increases the likelihood for us to stick with our goals, even when abandoning them may be more advantageous).
 
