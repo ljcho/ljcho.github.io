@@ -16,7 +16,7 @@ My current project studies how planning contributes to human goal persistance (i
 ## Projects
 ### Planning as a Cognitive Cost that Discourages Goal Switching
 
-2026 Cognitive Science (CogSci) Conference - (Poster and [Abstract](/assets/CogSci_Abstract.pdf))
+2026 Cognitive Science (CogSci) Conference - ([Poster](/assets/CogSci_Presentation.pdf) and [Abstract](/assets/CogSci_Abstract.pdf))
 
 
 2026 Computational Cognitive Neuroscience (CCN) Conference - (Poster and [Extended Abstract](/assets/CCN_2026_Submission.pdf))
