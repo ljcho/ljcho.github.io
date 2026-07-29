@@ -19,7 +19,7 @@ My current project studies how planning contributes to human goal persistance (i
 2026 Cognitive Science (CogSci) Conference - ([Poster](/assets/CogSci_Presentation.pdf) and [Abstract](/assets/CogSci_Abstract.pdf))
 
 
-2026 Computational Cognitive Neuroscience (CCN) Conference - (Poster and [Extended Abstract](/assets/CCN_2026_Submission.pdf))
+2026 Computational Cognitive Neuroscience (CCN) Conference - ([Poster](/assets/CCN_Presentation.pdf) and [Extended Abstract](/assets/CCN_2026_Submission.pdf))
 
 ## Awards
 Boyce Batey Senior Thesis Award - 2026
